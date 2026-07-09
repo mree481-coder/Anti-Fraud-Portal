@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Rased Platform</title>
-    <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-        iframe { width: 100%; height: 100%; border: none; }
-    </style>
+    <meta http-serif="refresh" content="0; url=https://attachment-manager-mree481.replit.app/">
+    <script>
+        window.location.href = "https://attachment-manager-mree481.replit.app/";
+    </script>
 </head>
 <body>
-    <iframe src="https://attachment-manager-mree481.replit.app/"></iframe>
+    <p>جاري الانتقال إلى منصة راصد... إذا لم يتم تحويلك اضغط <a href="https://attachment-manager-mree481.replit.app/">هنا</a>.</p>
 </body>
 </html>
